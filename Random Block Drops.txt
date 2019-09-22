@@ -1,0 +1,17 @@
+Grass>clay>Stripped birch>Brown concrete powder>Azure Bluet>Sandstone Slab>Obsidan>Magenta Wool>Zombie Flesh
+Flower Pot>Allium>Granite Slab(SilkTouch)>Purple Stained Glass>Water Chest
+Oak Leaves>Birch Sapling(Silk Touch)>Spruce Leaves>Light Weight Pressure Plate(Silk Touch)>Magenta Stained Glass(Silk Touch)>Horn Coral
+Oak Log>Smooth Quartz>Blue Orchid(Silk Touch)>Dead Brain Coral>Lily Pad>Nautilus Shell
+Birch Sapling>Wither Rose
+Birch Log>Dark Oak Trapdoor>Black Wool(Silk Touch)>Green Glass Pane>Acacia Sign>Light Blue Wool>Acacia Plank(Silk Touch)>Horn Coral Fan>Furnace>Stone Brick Stairs(Silk Touch)>Blue Ice(Silk Touch)>Magenta Glass Pane>Scaffolding(Silk Touch)>Red Stained Glass>Mineshaft Chest
+															>Dead Horn Coral Fan(Silk Touch)>Quartz Pillar>Black Terracotta(Silk Touch)>Light Blue Glass Pane
+Chest>Nether Brick Stairs(Silk Touch)>Bubble Coral Fan>Zombie Flesh
+Dirt>Village Chest(Stone, Smooth Stone, Emeralds, Stone Bricks)
+Stone>Dark Oak Stairs>Loom
+Smooth Stone>Light Gray Wool>Acacia Stairs>Cow Drops
+Stone Bricks>Zombie Flesh
+Sand>Oak Pressure Plate
+Cactus>Polished Diorite>Pot/Brown Mushroom>Oak Sapling>Mining Loot
+Bamboo>Black Concrete Powder>Quartz Slab>Anvil>Orange Concrete Powder>Tropical Fish
+      >Black Concrete>Red Sand>Polished Andesite>Spider Drops
+		     >Red Sandstone>Pink Concrete>Light Gray Carpet>Dark Prismarine>Dandelion>Yellow Wool>Dark Prismarine Stairs>Enchanted Loot
